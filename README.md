@@ -18,7 +18,7 @@ Anti-AI Bubble Portfolio Dashboard A professional Streamlit-based portfolio anal
 - Sector allocation visualization
 - Monthly return heatmap
   
-## Methodology
+### Methodology
 - Daily returns computed from Yahoo Finance data
 - Annualized mean and covariance estimation
 - Constrained optimization via Sequential Least Squares Programming (SLSQP)
