@@ -5,7 +5,8 @@ Anti-AI Bubble Portfolio Dashboard A professional Streamlit-based portfolio anal
 - Utilities 
 - REITs
 - Energy
-{The objective} is to construct a risk-efficient portfolio resilient to potential market corrections or AI-driven valuation bubbles.
+  
+The objective is to construct a risk-efficient portfolio resilient to potential market corrections or AI-driven valuation bubbles.
 
 ## Key Features
 - Volatility-targeted portfolio optimization
