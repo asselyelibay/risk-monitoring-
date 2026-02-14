@@ -13,7 +13,7 @@ The objective is to construct a risk-efficient portfolio resilient to potential 
 - Sharpe ratio maximization under constraints
 - Risk contribution decomposition
 - Drawdown and CVaR analysis
-- Benchmark comparison (MSCI World – URTH)
+- Benchmark comparison (MSCI World URTH)
 - Rolling performance metrics
 - Scenario-based stress testing
 - Sector allocation visualization
