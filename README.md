@@ -27,7 +27,7 @@ Anti-AI Bubble Portfolio Dashboard A professional Streamlit-based portfolio anal
 - Volatility cap enforced
 - Sharpe ratio maximization objective
 
-## Risk metrics include:
+### Risk metrics include:
 - Annualized return
 - Volatility
 - Sharpe ratio
@@ -38,7 +38,7 @@ Anti-AI Bubble Portfolio Dashboard A professional Streamlit-based portfolio anal
 - Tracking error
 - Information ratio 
 
-## Tech Stack
+### Tech Stack
 Python 
 Streamlit 
 NumPy 
