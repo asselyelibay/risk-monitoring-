@@ -50,6 +50,6 @@ yfinance 
 
 Run Locally pip install -r requirements.txt streamlit run app.py
 
-Live Application https://portfolio-risk-dashboard-hcxx2prqqlwdcegf3dhyyx.streamlit.app/
+Live Application https://2qgus3meh8qefnx2engujo.streamlit.app/
 
 Author Assel Yelibay 
