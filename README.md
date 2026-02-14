@@ -7,7 +7,7 @@ Anti-AI Bubble Portfolio Dashboard A professional Streamlit-based portfolio anal
 - Energy
 {The objective} is to construct a risk-efficient portfolio resilient to potential market corrections or AI-driven valuation bubbles.
 
-Key Features
+##Key Features
 - Volatility-targeted portfolio optimization
 - Sharpe ratio maximization under constraints
 - Risk contribution decomposition
@@ -18,7 +18,7 @@ Key Features
 - Sector allocation visualization
 - Monthly return heatmap
   
-"Methodology"
+##Methodology
 - Daily returns computed from Yahoo Finance data
 - Annualized mean and covariance estimation
 - Constrained optimization via Sequential Least Squares Programming (SLSQP)
@@ -27,7 +27,7 @@ Key Features
 - Volatility cap enforced
 - Sharpe ratio maximization objective
 
-Risk metrics include:
+##Risk metrics include:
 - Annualized return
 - Volatility
 - Sharpe ratio
