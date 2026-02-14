@@ -38,7 +38,7 @@ with st.sidebar:
     st.markdown("## Configuration")
     st.markdown("---")
     
-    start_date = st.date_input("Start Date", pd.to_datetime("2019-01-01"))
+    start_date = st.date_input("Start Date", pd.to_datetime("2019-02-02"))
     target_vol_input = st.slider("Target Volatility (%)", 10.0, 25.0, 16.0, 0.5) / 100
     risk_free = st.slider("Risk-Free Rate (%)", 0.0, 5.0, 2.0, 0.1) / 100
     
